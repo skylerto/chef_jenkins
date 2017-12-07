@@ -1,3 +1,3 @@
 # Jenkins Ruby
 
-basically, it's jenkinsci/blueocean + a ruby install and a json gem
+basically, it's jenkins, a ruby install, a json gem, and the ChefDK
